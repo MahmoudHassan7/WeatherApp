@@ -6,3 +6,12 @@
 //
 
 import Foundation
+
+class WeatherData{
+    
+    var Condition: Int = 0;
+    var Temprature: Int = 0;
+    var City : String = "";
+    var WeatherIcon: String = "";
+    
+}
